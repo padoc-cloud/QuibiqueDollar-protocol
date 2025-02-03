@@ -1,6 +1,6 @@
-# Daiquilibrium
+# QuibiqueDollar
 
-- full name: `Daiquilibrium`
+- full name: `QuibiqueDollar`
 - symbol: `DAIQ`
 - decimals: `18`
 - icon:
@@ -10,7 +10,6 @@
 ## contracts
 ### mainnet
 - `0x0aF9087FE3e8e834F3339FE4bEE87705e84Fd488` **DAO (DAIQS)**
-- `0x73D9E335669462Cbdd6aa3AdaFe9efeE86a37Fe9` **DAIQ**
 - `0x362f5F2C5855Ff09e542e89b8Ab7f7d0928C62da` **Oracle**
 - `0x26B4B107dCe673C00D59D71152136327cF6dFEBf` **UniswapV2 DAI:DAIQ Pair**
 - `0x7D9A429e8EBecD2726BD2bc0B843864ba075F0b4` **LP Incentivation Pool**
